@@ -18,11 +18,13 @@ int main(void)
 		if (KeyNum == 1)			//按键1按下
 		{
 			LED1_Turn();			//LED1翻转
+			Delay_ms(1000);
 		}
 		
 		if (KeyNum == 2)			//按键2按下
 		{
 			LED2_Turn();			//LED2翻转
+			Delay_ms(1000);
 		}
 	}
 }

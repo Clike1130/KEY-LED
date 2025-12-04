@@ -3,13 +3,13 @@
         {
             "name": "Target 1",
             "includePath": [
-                "d:\\STM32\\STM32江科大入门教程资料\\程序源码\\程序源码\\STM32Project-有注释版\\3-4 按键控制LED\\Start",
-                "d:\\STM32\\STM32江科大入门教程资料\\程序源码\\程序源码\\STM32Project-有注释版\\3-4 按键控制LED\\Library",
-                "d:\\STM32\\STM32江科大入门教程资料\\程序源码\\程序源码\\STM32Project-有注释版\\3-4 按键控制LED\\User",
-                "d:\\STM32\\STM32江科大入门教程资料\\程序源码\\程序源码\\STM32Project-有注释版\\3-4 按键控制LED\\System",
-                "d:\\STM32\\STM32江科大入门教程资料\\程序源码\\程序源码\\STM32Project-有注释版\\3-4 按键控制LED\\Hardware",
-                "D:\\STM32\\MDK-ARM\\ARM\\ARMCC\\include",
-                "D:\\STM32\\MDK-ARM\\ARM\\ARMCC\\include\\rw"
+                "f:\\practice_five\\KEY-LED\\Start",
+                "f:\\practice_five\\KEY-LED\\Library",
+                "f:\\practice_five\\KEY-LED\\User",
+                "f:\\practice_five\\KEY-LED\\System",
+                "f:\\practice_five\\KEY-LED\\Hardware",
+                "D:\\Keil_v5\\ARM\\ARMCC\\include",
+                "D:\\Keil_v5\\ARM\\ARMCC\\include\\rw"
             ],
             "defines": [
                 "USE_STDPERIPH_DRIVER",
